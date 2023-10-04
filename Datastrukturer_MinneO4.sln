@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datastrukturer_MinneO4", "Datastrukturer_MinneO4\Datastrukturer_MinneO4.csproj", "{BB32F5E4-B4AC-4F07-A381-F855C07E3B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB32F5E4-B4AC-4F07-A381-F855C07E3B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB32F5E4-B4AC-4F07-A381-F855C07E3B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB32F5E4-B4AC-4F07-A381-F855C07E3B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB32F5E4-B4AC-4F07-A381-F855C07E3B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C88A55-12D6-45CA-BA4A-70E5E106DB2F}
+	EndGlobalSection
+EndGlobal
